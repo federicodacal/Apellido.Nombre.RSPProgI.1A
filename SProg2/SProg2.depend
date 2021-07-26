@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627303711 source:c:\users\feder\desktop\sprog2\sprog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
